@@ -24,13 +24,13 @@ Enjoy making music with the laser harp!
 ## Hardware Required
 1. PocketBeagle
 2. Laser diode
-3. Stepper motor (we used the PM356-048 model)
+3. Stepper motor
 4. DC supply (12 V)
 5. ULN2003a motor driver
 6. Light Detecting Resistor (LDR)
 7. Small mirror
 8. Breadboard
-9. Transistor (we used the 2N3904 model)
+9. Transistor
 10. 1kΩ and 20kΩ resistors
 11. Fimo for attaching the mirror to the motor
 12. Wires
