@@ -23,7 +23,7 @@ Enjoy making music with the laser harp!
 
 ## Hardware Required
 1. PocketBeagle
-2. Laser pointer
+2. Laser diode
 3. Stepper motor (we used the PM356-048 model)
 4. DC supply (12 V)
 5. ULN2003a motor driver
